@@ -1,16 +1,20 @@
-### Hi there 👋
+# [Jolene Langlinais][personal]
+Software Engineer in NYC 🗽 with [Clause][clause]
 
-<!--
-**irmerk/irmerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Maintainer for the [Accord Project][ap]
 
-Here are some ideas to get you started:
+### 🧗‍♀️ 🚴‍♀️ 🎭 👩‍🍳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- 🖇️ [LinkedIn][linkedin]
+- 🐦 [Twitter][twitter]
+- 🗒️ [DEV][dev]
+- 📫 [Email][mail]
+
+[personal]: http://jolenelanglinais.com/
+[twitter]: https://twitter.com/jolanglinais
+[linkedin]: https://www.linkedin.com/in/jolene-langlinais/
+[dev]: https://dev.to/irmerk
+[mail]: mailto:jolenelanglinais@gmail.com
+[ap]: https://github.com/accordproject
+[clause]: http://www.clause.io/
