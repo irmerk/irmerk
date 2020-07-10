@@ -1,20 +1,19 @@
-# [Jolene Langlinais][personal]
-Software Engineer in NYC 🗽 with [Clause][clause]
+## Attributes
+- 👩🏻‍💻 Full Stack Software Engineer
+  - [Clause][clause]
+  - Maintainer for the [Accord Project][ap]
+- 👩🏻‍🍳 Chef
+- 🧗🏻‍♀️ Climber
+- 🚴🏻‍♀️ Rider
+- 🎭 Comedy
 
-Maintainer for the [Accord Project][ap]
+## Values
+- 🌏 Open-Source Software
 
-### 🧗‍♀️ 🚴‍♀️ 🎭 👩‍🍳
+## Interests
+- Streams
+- DevOps
+- Functional Programming
 
-## Contact
-- 🖇️ [LinkedIn][linkedin]
-- 🐦 [Twitter][twitter]
-- 🗒️ [DEV][dev]
-- 📫 [Email][mail]
-
-[personal]: http://jolenelanglinais.com/
-[twitter]: https://twitter.com/jolanglinais
-[linkedin]: https://www.linkedin.com/in/jolene-langlinais/
-[dev]: https://dev.to/irmerk
-[mail]: mailto:jolenelanglinais@gmail.com
 [ap]: https://github.com/accordproject
 [clause]: http://www.clause.io/
