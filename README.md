@@ -15,7 +15,7 @@
 - DevOps
 - Functional Programming
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=irmerk)](https://github.com/irmerk/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=irmerk)
 
 [ap]: https://github.com/accordproject
 [clause]: http://www.clause.io/
