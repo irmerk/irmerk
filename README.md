@@ -1,4 +1,4 @@
-Software Engineer, also maintainer for the [Accord Project][ap] 👩🏻‍💻 
+Software Engineer, also TSC for the [Accord Project][ap] 👩🏻‍💻 
 
 Also:
 - Chef 👩🏻‍🍳 
